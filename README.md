@@ -50,7 +50,7 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 Clone the project
 
 ```bash
-    git clone https://github.com/Lava-Kumar-PL/online_food_order_platform.git
+    git clone https://github.com/Lava-Kumar-PL/online-food-order-app
 ```
 
 Go to the project directory
