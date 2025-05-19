@@ -126,4 +126,4 @@ Start the Backend server
 
 ## Feedback
 
-If you have any feedback, raise an issue let's try to resolve it.
+If you have any feedback, raise an issue, and let's try to resolve it.
